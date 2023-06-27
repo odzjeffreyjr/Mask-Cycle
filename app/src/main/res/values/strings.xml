@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Mask-Cycle</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mask-Cycle</string>
+    <string name="nav_header_subtitle">instagram.com/maskcycle.yygs</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="arnav">My name is Arnav Singhal and I am from Delhi, India. I am 16 years old and interested in entrepreneurship and engineering. I want to change the world by solving global challenges that are currently plaguing the world. I thus took the initiative to take part in this project which will take the world one step closer to being a better place. I am coordinating research and presentation in the project which is crucial and makes this dear to me.</string>
+    <string name="jeffrey">I am a passionate Pan-African blogger writer and tech enthusiast from Uganda. My hobbies are rugby, chess and Netflix and chill. If you don\'t find me penning my thoughts, I am probably developing code for personal projects as well as friends\'. I am therefore tasked with developing an android application for our project, to help solve logistical issues involved in management of waste that has drastically increased during the covid-19 pandemic.</string>
+    <string name="mission">Mask-cycle is designed to raise the awareness of waste management problems. The app is designed to help the problem of recycling masks because of the pandemic, that increased the demand for use. The company’s mission is to increase recycling and therefore serve for the better good</string>
+    <string name="dachi">My name is Dachi Gvinadze and I’m from Georgia. I’m 17 years old and interested in STEM. Today’s world faces many global problems and resolving them is vital for future developments. I’m in charge of creating ways to reduce waste and enhance recycling throughout the world. The ideas have to be innovative, reliable, easily implementable, and realistic.</string>
+    <string name="sample_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="menu_leaderboard">Leaderboard</string>
+    <string name="miffy">My name is Miffy Wang. I am 17 and from Hong Kong. I study in Massachusetts’s and consider myself a global citizen. I am passionate about global issues stemming from climate change to Asian discrimination. In addition I am fascinated with the arts, specifically aligning in the digital realm. I’m in charge of graphic design and social marketing. From my experience in the field I am hoping to make an impact and bring this project into life.</string>
+    <string name="menu_connect">Connect</string>
+    <string name="Account">InfoMap</string>
+    <string name="title_activity_maps">Google Maps</string>
+    <string name="MAPS_API_KEY" />
+    <string name="covid_testing_centres">Find covid testing centres</string>
+    <string name="mask_drop_off_centres">Find drop-off centres</string>
+    <string name="schedule_pick_up">Schedule trash collection</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="discord">Discord</string>
+    <string name="masks_collected">Masks Collected</string>
+    <string name="join_competition">Join Competition</string>
+    <string name="visit_our_socials">Visit Our Socials</string>
+    <string name="maskcycle_gmail_com">Maskcycle@gmail.com</string>
+    <string name="yale_campus_new_haven">Yale Campus, New Haven</string>
+    <string name="telephone">+1 (617) 838 5969</string>
+    <string name="how_it_works">How It Works</string>
+    <string name="title_activity_info2">InfoActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="jeff">Jeff</string>
+    <string name="btnSignUpText">Sign up</string>
+    <string name="btnLoginText">Login</string>
+    <string name="etPasswordHint">Password</string>
+    <string name="etEmailHint">Email</string>
+</resources>

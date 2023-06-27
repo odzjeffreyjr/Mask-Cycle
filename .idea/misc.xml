@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable-v24/mask_background.xml" value="0.17" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable-v24/message_box_background.xml" value="0.17" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable-v24/testing_background.xml" value="0.17" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable-v24/trash_background.xml" value="0.17" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/arnav_background.xml" value="0.2015" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/btn_background.xml" value="0.2015" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/dachi_background.xml" value="0.2015" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/et_background.xml" value="0.2015" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2075" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/ic_baseline_masks_24.xml" value="0.1745" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1745" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/jeffrey_background.xml" value="0.2015" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/join_background.xml" value="0.1815" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/message_box_background_alternate.xml" value="0.1" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/miffy_background.xml" value="0.2015" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/mission_background.xml" value="0.2015" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_content.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_info.xml" value="0.25" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_info2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_info3.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_main.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_maps.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_sign_up.xml" value="0.1859375" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/activity_team.xml" value="0.2" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/content_info2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/content_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/fragment_connect.xml" value="0.1" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/fragment_gallery.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/fragment_leaderboard.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/fragment_map.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/fragment_share.xml" value="0.18" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/how_it_works_item.xml" value="0.2" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/nav_header_main.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/team_item.xml" value="0.22" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/testing.xml" value="0.22" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/layout/user_layout.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/menu/main.xml" value="0.2" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/T490/AndroidStudioProjects/MaskCycle/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1745" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
